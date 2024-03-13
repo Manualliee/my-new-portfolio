@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Manualliee.github.io/my-portfolio",
+  "homepage": "https://Manualliee.github.io/my-new-portfolio",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
